@@ -4,7 +4,7 @@ import json
 
 
 
-baseUrl = 'http://localhost:5001/api/mymathserver'
+baseUrl = 'http://localhost:5000/api/mymathserver'
 
 
 
